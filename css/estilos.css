@@ -1,0 +1,33 @@
+body{
+	background-image: url('../images/fundo_main.gif');
+}
+
+.jumbotron{
+	background-image: url('../images/rna-slide2.jpg');	
+	color: #f5efed;
+}
+
+.panel-heading{
+	background-color: #002626 !important;
+	color: #f5efed !important;
+}
+
+.navbar{
+	background-color: black;
+}
+
+#navbar li a:link, #navbar li a:visited{
+	color: #d9d9d9 !important;
+}
+
+#navbar li a:hover, #navbar li a:active{
+	color: white !important;
+}
+
+.navbar-brand:link, .navbar-brand:visited{
+	color: #d9d9d9 !important;
+	font-weight: bold !important;
+}
+.navbar-brand:active, .navbar-brand:hover{
+	color: white !important;
+}
